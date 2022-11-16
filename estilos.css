@@ -1,0 +1,33 @@
+*{
+    margin: 0;
+}
+
+.contenedor{
+    background: rgb(255, 0, 212);
+    width: 100vw;
+    height: 100vh;
+    text-align: center;
+}
+
+p{
+    font-size: xx-large;
+    padding: 15%;
+    color: white;
+    opacity: 54%;
+}
+
+button{
+    font-size: xx-large;
+    padding: 0.75em;
+    opacity: 57%;
+    background-color: rgb(255, 0, 212);
+    background: none;
+}
+
+#yesBtn{
+    transform: translate(-100%,0);
+}
+
+#noBtn{
+    position: absolute;
+}
